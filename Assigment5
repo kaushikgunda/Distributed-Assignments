@@ -1,0 +1,10 @@
+Implement the following two probems using map-reduce in Hadoop.
+
+1. Given a set of n files, compute the frequency of each word across all the files. Print the list of words and their frequencies.
+2. Given a set of n files, compute the frequency of k-letter words across all the files. For example, number of 4 letter words (5 occurrences of 'ball' + 3 occurrences of 'plan' = 8 frequency of 4 letter words). Print the list of number of letters and the frequency of the words with that many number of letters.
+
+Refer the following links for Hadoop Installation and setting up single node cluster.
+
+http://www.bogotobogo.com/Hadoop/BigData_hadoop_Install_on_ubuntu_single_node_cluster.php
+
+http://www.michael-noll.com/tutorials/running-hadoop-on-ubuntu-linux-single-node-cluster/
